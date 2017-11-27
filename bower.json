@@ -1,0 +1,17 @@
+{
+  "name": "gentelella-master-frontend",
+  "version": "1.0.1",
+  "authors": [
+    "Trung Quan <quanlightning17@gmail.com>"
+  ],
+  "description": "All library from author template gentelella-master",
+  "main": "/",
+  "keywords": [
+    "gentelella"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/trungquan17/gentelella-master-frontend.git",
+  "ignore": [
+    "README.md"
+  ]
+}
